@@ -3,8 +3,8 @@
         Distributed with a free-will license.
         Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
         HIH7130
-        This code is designed to work with the HIH7130_I2CS I2C Mini Module available from ControlEverything.com.
-        https://shop.controleverything.com/products/humidity-and-temperature-sensor-3-rh-1-0-c
+        This code is designed to work with the HIH7130_I2CS I2C Mini Module available from www.dcubestore.com.
+       
  */
 /**************************************************************************/
 
